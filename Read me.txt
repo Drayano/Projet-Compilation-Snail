@@ -1,19 +1,21 @@
-Nom et Prènom:	
+Section 1 groupe 1
+
+Nom et PrÃ¨nom:	
 	Rezk-kallah Houari.
 	ZERNADJI Taha.
 
 
-Language utilisé: Java.
+Language utilisÃ©: Java.
 
-Vérsion: Java 8.
+VÃ©rsion: Java 8.
 
 IDE: Netbeans IDE 11.0.
 
 
-Déscription:
-	le programme contient les 3 types d'analyses, pour l'analyse lexicale nous avons créé un tableau (vecteur) ou nous enregistrons tous les mots ou caractères présents dans le fichier (.compila), puis en utilisant nos fonctions (isNumeric, isInt,isIdent, etc.) pour identifier chaque mot, que ce soit (identificateur, opérateurs, entier, réel, etc...).
+DÃ©scription:
+	le programme contient les 3 types d'analyses, pour l'analyse lexicale nous avons crÃ©Ã© un tableau (vecteur) ou nous enregistrons tous les mots ou caractÃ¨res prÃ©sents dans le fichier (.compila), puis en utilisant nos fonctions (isNumeric, isInt,isIdent, etc.) pour identifier chaque mot, que ce soit (identificateur, opÃ©rateurs, entier, rÃ©el, etc...).
 
-	Pour l'analyse syntaxique nous avons pris une approche similaire à l'analyse lexical, sauf que cette fois on enregistre chaque ligne dans une case d'un tableau déclaré, afin de détécter les erreurs de syntaxe, nous avons enregistré la syntaxe de tous types d'instruction, si une des instructions est erronée alors une erreur détectée.Le programme garde un fichier texte où il enregistre l'historique d'erreur de la dernière utilisation.
+	Pour l'analyse syntaxique nous avons pris une approche similaire Ã  l'analyse lexical, sauf que cette fois on enregistre chaque ligne dans une case d'un tableau dÃ©clarÃ©, afin de dÃ©tÃ©cter les erreurs de syntaxe, nous avons enregistrÃ© la syntaxe de tous types d'instruction, si une des instructions est erronÃ©e alors une erreur dÃ©tectÃ©e.Le programme garde un fichier texte oÃ¹ il enregistre l'historique d'erreur de la derniÃ¨re utilisation.
 
-	Enfin, au niveau de l'analyse sémantique le programme vérifié si la disposition des instructions est correcte (début par une start_Progam et se termine par un End_Program), et aussi l'utilisation correcte des instructions (même nombre de if que de else par exemple), il compte le nombre d'erreurs trouver et il affiche le montant à la fin de l'analyse. Comme l'analyse syntaxique, on garde un historique de la dernière utilisation.
+	Enfin, au niveau de l'analyse sÃ©mantique le programme vÃ©rifiÃ© si la disposition des instructions est correcte (dÃ©but par une start_Progam et se termine par un End_Program), et aussi l'utilisation correcte des instructions (mÃªme nombre de if que de else par exemple), il compte le nombre d'erreurs trouver et il affiche le montant Ã  la fin de l'analyse. Comme l'analyse syntaxique, on garde un historique de la derniÃ¨re utilisation.
 
