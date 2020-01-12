@@ -1,0 +1,17 @@
+Start_Program  - Début de programme
+Int_Number : i , j , Aft_5 ;;  - Déclaration de 3 entiers reconnue
+Give i : 23 ;;  - Affectation d'une valeur à i reconnue
+Real_Number : Aft34_2 ;;  - Déclaration de 1 réels reconnue
+If -- i < j --  - Condition alors reconnue
+Else  - Sinon
+Else  - Sinon
+Else  - Sinon
+Start  - Début d'un bloc d'instruction
+Affect i to j ;;  - Affectation de valeur entre variables reconnue
+Give Aft34_2 : 123.54 ;;  - Affectation d'une valeur à Aft34_2 reconnue
+Finish  - Fin d'un bloc d'instruction
+ShowMes : " ceci est un message " ;;  - Message reconnu
+ShowVal : i ;;  - Affichage de variable reconnu
+//. ceci est un commentaire  - Commentaire reconnu
+End_Program  - Fin de programme
+

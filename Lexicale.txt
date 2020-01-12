@@ -1,0 +1,63 @@
+Start_Program : Mot réservé début d'un programme
+Int_Number : Mot réservé déclaration d'un entier
+: : Caractère réservé
+i est un Identificateur
+, est un caractère réservé
+j est un Identificateur
+, est un caractère réservé
+Aft_5 est un Identificateur
+;; : Mot réservé fin d'instruction
+Give : Mot réservé
+i est un Identificateur
+: : Caractère réservé
+23 est un Nombre Entier
+;; : Mot réservé fin d'instruction
+Real_Number : Mot réservé déclaration d'un réel
+: : Caractère réservé
+Aft34_2 est un Identificateur
+;; : Mot réservé fin d'instruction
+If : Symbole de condition
+-- : Symbole de condition
+i est un Identificateur
+< : Symbole inférieur
+j est un Identificateur
+-- : Symbole de condition
+Give : Mot réservé
+Aft_5 est un Identificateur
+: : Caractère réservé
+10 est un Nombre Entier
+;; : Mot réservé fin d'instruction
+Else : Symbole de condition
+Else : Symbole de condition
+Else : Symbole de condition
+Start : Mot réservé
+Affect : Mot réservé
+i est un Identificateur
+to : Mot réservé
+j est un Identificateur
+;; : Mot réservé fin d'instruction
+Give : Mot réservé
+Aft34_2 est un Identificateur
+: : Caractère réservé
+123.54 est un Nombre Reel
+;; : Mot réservé fin d'instruction
+Finish : Mot réservé
+ShowMes : Mot réservé
+: : Caractère réservé
+" : Caractère réservé
+ceci est un Identificateur
+est est un Identificateur
+un est un Identificateur
+message est un Identificateur
+" : Caractère réservé
+;; : Mot réservé fin d'instruction
+ShowVal : Mot réservé
+: : Caractère réservé
+i est un Identificateur
+;; : Mot réservé fin d'instruction
+//. : Symbole de commentaire
+ceci est un Identificateur
+est est un Identificateur
+un est un Identificateur
+commentaire est un Identificateur
+End_Program : Mot réservé fin d'un programme
