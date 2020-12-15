@@ -3,8 +3,8 @@
 Section 1 groupe 1
 
 Nom et Prènom:	
-	Rezk-kallah Houari.
-	ZERNADJI Taha.
+Rezk-kallah Houari.
+ZERNADJI Taha.
 
 
 Language utilisé: Java.
