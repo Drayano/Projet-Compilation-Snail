@@ -15,6 +15,7 @@ Version: Java 8.
 
 IDE: Netbeans IDE 11.0.
 
+Interface : Java Swing
 
 # Description :
 Le programme contient les 3 types d'analyses, pour l'analyse lexicale nous avons créé un tableau (vecteur) ou nous enregistrons tous les mots ou caractères présents dans le fichier (.compila), puis en utilisant nos fonctions (isNumeric, isInt,isIdent, etc.) pour identifier chaque mot, que ce soit (identificateur, opérateurs, entier, réel, etc...).
